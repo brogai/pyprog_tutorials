@@ -37,7 +37,7 @@ def graph_data(stock):
 
     plt.xlabel('Date')
     plt.ylabel('Price')
-    plt.title('Interesting Graph\nCheck It Out')
+    plt.title('Sexy Sian Graph')
     plt.legend()
     plt.show()
 
